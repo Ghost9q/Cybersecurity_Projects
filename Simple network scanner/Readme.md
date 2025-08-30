@@ -12,5 +12,7 @@ To be able to run the program you need have python 3.13.3 or above. After instal
 scapy 2.6.1 and requests 2.32.5.
 
 You can run the following commands in your terminal after installing python:
+
 pip install scapy==2.6.1
+
 pip install requests==2.32.5
