@@ -4,4 +4,4 @@ the convertion function in a different file so it stays more organised.
 
 Dependendencies:
 
-Python 3.13.3
+Python 3.13.3 or above
