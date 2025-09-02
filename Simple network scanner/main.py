@@ -101,5 +101,6 @@ if __name__ == '__main__':
     print('''
 Note that the device type is not 100% accurate
 it's just the most relevant guess according to 
-the vendor and TTL of the device.\n''')
+the vendor and TTL number of the packet we recieve
+from the device.\n''')
     main()
